@@ -21,3 +21,6 @@ En haut à droite, cliquez sur Plus. Supprimer les données de navigation.
 Choisissez une période, telle que Dernière heure ou Toutes les données.
 Sélectionnez les types d'informations que vous souhaitez supprimer.
 Cliquez sur Supprimer les données.
+
+![icon](https://github.com/user-attachments/assets/e3408a0c-9d45-4c2a-97f8-fcf8751f4af2)
+![logo](https://github.com/user-attachments/assets/77b8bae4-a0a9-4506-ba6d-77ea4c197262)
