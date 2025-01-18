@@ -2,6 +2,7 @@
 Mettre a jour le logo et icon suite a l'ajout du 17/05/2025
 
 https://github.com/home-assistant/brands/tree/master/custom_integrations/freebox_home
+
 Cette PR corrige ou ferme le problème : corrige gvigroux/freebox_home#23
  **Si vous utilisez l'application HA Companion et non un navigateur**
       
