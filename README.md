@@ -1,4 +1,4 @@
-# Freebox-Pack-Secure
+# Freebox-Pack-Secure ICON
 Mettre a jour le logo et icon suite a l'ajout du 17/05/2025
 
 https://github.com/home-assistant/brands/tree/master/custom_integrations/freebox_home
