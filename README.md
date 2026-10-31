@@ -1,4 +1,6 @@
 # Freebox-Pack-Secure ICON
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=xav59213&emoji=&slug=xav59213&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/xav59213)
 Mettre a jour le logo et icon suite a l'ajout du 17/05/2025
 
 https://github.com/home-assistant/brands/tree/master/custom_integrations/freebox_home
